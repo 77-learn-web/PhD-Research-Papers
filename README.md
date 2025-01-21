@@ -11,3 +11,4 @@ A collection of research papers I found useful during my PhD
 ## 隐藏在合法信号之中
 
 + Bonati L, D’Oro S, Restuccia F, Basagni S, Melodia T. SteaLTE: Private 5G cellular connectivity as a service with full-stack wireless steganography. InIEEE INFOCOM 2021-IEEE Conference on Computer Communications 2021 May 10 (pp. 1-10). IEEE.
++ Wei X, Saha D. WISE: Waveform Independent Signal Embedding for Covert Communication. IEEE Transactions on Machine Learning in Communications and Networking. 2023 Dec 14.
